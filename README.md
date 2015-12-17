@@ -13,7 +13,7 @@ npm run dev
 Go to http://localhost:8080/
 
 ## Contact
-Say hi on Twitter: [@vuejs](https://twitter.com/osterbergmarcus)
+Say hi on Twitter: [@osterbergmarcus](https://twitter.com/osterbergmarcus)
 
 ##Contribution
 Feel free for issue reporting and pull requests
