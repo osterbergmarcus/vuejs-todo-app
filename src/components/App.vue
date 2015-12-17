@@ -25,7 +25,7 @@
       <ul class="list-group">
         <li class="list-group-item list-group-item-success" v-for="todo in complete">
           {{ todo.task }}
-          <button class="btn btn-default" @click="removeTodo(todo)"><span class="glyphicon glyphicon-ok"></span>
+          <button class="btn btn-default" @click="completed(todo)"><span class="glyphicon glyphicon-ok"></span>
           </li>
         </ul>
         <button class="btn btn-danger" @click="clearAllCompleted()">clear <span class="glyphicon glyphicon glyphicon-remove-sign"></span>
