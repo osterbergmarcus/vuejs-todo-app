@@ -10,10 +10,10 @@ Clone the repo, install the dependencies and then run webpack-dev-server
 npm install
 npm run dev
 ```
+Go to http://localhost:8080/
 
 ## Contact
-[@_osterbergmarcus](http://www.twitter.com/osterbergmarcus)
-http://marcusosterberg.com
+Say hi on Twitter: [@vuejs](https://twitter.com/osterbergmarcus)
 
 ##Contribution
 Feel free for issue reporting and pull requests
