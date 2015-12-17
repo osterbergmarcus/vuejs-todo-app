@@ -1,0 +1,21 @@
+body {
+  background-image: url("http://gratisography.com/pictures/113_1.jpg");
+  background-size: 100%;
+  font-family: 'Poiret One', cursive;
+}
+
+.json-output {
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.todo-app {
+  height: relative;
+  width: 600px;
+  position: relative;
+}
+
+.footer {
+  height: relative;
+  width: 600px;
+  position: relative;
+}
